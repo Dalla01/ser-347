@@ -1,7 +1,7 @@
-def Fatorial(num):
+def fatorial(num):
     produto = 1
 
-    while(num > 0):
+    while num > 0:
         produto = produto * num
 
         num = num - 1
